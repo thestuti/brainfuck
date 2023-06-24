@@ -5,7 +5,6 @@
 ██████  ██████  ███████ ██ ██ ██  ██ █████   ██    ██ ██      █████   
 ██   ██ ██   ██ ██   ██ ██ ██  ██ ██ ██      ██    ██ ██      ██  ██  
 ██████  ██   ██ ██   ██ ██ ██   ████ ██       ██████   ██████ ██   ██ 
-                                                                      
                                                                        
 ```
 
@@ -14,9 +13,7 @@
 
 
 <br>
-
 A CLI brainfuck interpreter implemented in go.
-
 ---
 
 
@@ -26,12 +23,10 @@ A CLI brainfuck interpreter implemented in go.
 ``` 
 git clone github.com/thestuti/brainfuck
 go run src/main.go
-
 ```
 ---
 
 <h2> Usage </h2> 
-
 
 | Flag | Description                           | Example                              |
 | ---- | ------------------------------------- | ------------------------------------ |
