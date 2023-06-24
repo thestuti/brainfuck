@@ -13,7 +13,8 @@
 
 
 <br>
-A CLI brainfuck interpreter implemented in go.
+A CLI brainfuck interpreter implemented in go which allows users to input Brainfuck code and execute it, providing a way to experiment with and explore the language.
+
 ---
 
 
@@ -31,4 +32,4 @@ go run src/main.go
 | Flag | Description                           | Example                              |
 | ---- | ------------------------------------- | ------------------------------------ |
 | -h   | Display help related to usage         | go run src/main.go -h                |
-| -f  | File of brainfuck code  | go run src/main.go -f /path/to/save/location/file.pb   |
+| -f  | File of brainfuck code  | go run src/main.go -f /path/to/save/location/file.bf  |
